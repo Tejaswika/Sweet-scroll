@@ -1,0 +1,92 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: White;
+}
+.caption {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
+.border {
+  background-color: #41BAC1;
+  color: White;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+.cd-logo , .kitchen1 , .ingredient , .process , .note , .nutri , .thank{
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f5c4e4;
+  background-size: cover;
+  min-height: 100%;
+  background-attachment:fixed;
+
+
+}
+.kitchen1{
+  background-image: url("kitchen1.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+.process{
+  background-image: url("process.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+.note{
+  background-image: url("note.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+.nutri{
+  background-image: url("nutri.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+.thank{
+  background-image: url("thank u.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+.ingredient{
+  background-image: url("cokki.jpg");
+  min-height: 100%;
+  background-size: auto;
+
+
+}
+
+.cd-logo {
+  background-image: url("Bakery Logo.jpg");
+  min-height: 100%;
+  background-size: auto;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: white;
+  text-align:center
+}
+
+.textSection {
+  background-color:#ba027b;
+  padding:50px 80px;
+}
