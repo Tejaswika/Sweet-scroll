@@ -90,8 +90,3 @@ h3 {
   background-color:#ba027b;
   padding:50px 80px;
 }
-@media only screen and (max-device-width: 1024px) {
-    .cd-logo, .layer-cake, .kitchen-equipment, .cake-ingredients, .bowl-of-cakemix, .cake-in-oven, .decorated-cake {
-        background-attachment: scroll;
-    }
-}
